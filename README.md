@@ -1,4 +1,4 @@
-# Learn-OOP-by-JS
+# JavaScript-OOP-Journey
 
 1.  Encapsulation
 
