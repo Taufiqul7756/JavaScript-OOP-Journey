@@ -12,16 +12,18 @@ class player {
 }
 
 class cricketer extends player {
+  #centuries;
   constructor(name, age, centuries) {
     super(name, age);
-    this.centuries = centuries;
+    this.#centuries = centuries;
   }
 }
 
 class footballer extends player {
+  #goals;
   constructor(name, age, goals) {
     super(name, age);
-    this.goals = goals;
+    this.#goals = goals;
   }
 }
 
